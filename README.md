@@ -43,5 +43,9 @@ help build the webpage demonstration.
 Results:
 Dana would be able to walk through this website by being able to understand the images and the datatables that were created by the diffrerent input users. 
 The first table is displayed with A Backround data that is filter for a user to then use as an input display. 
+![image](https://user-images.githubusercontent.com/95897182/158081692-33e5a2f7-3db2-4745-a88a-52cb3bd581f3.png)
+
+Then the second table shows a filter table with now two diferent inputs that have been enter by the user, Dana should be able to grasp that data from viewing the image. 
+
 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
