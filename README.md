@@ -45,7 +45,9 @@ The first table is displayed with A Backround data that is filter for a user to 
 Then the second table shows a filter table with now two diferent inputs that have been enter by the user, Dana should be able to grasp that data from viewing the image. 
 ![image](https://user-images.githubusercontent.com/95897182/158081850-a263003a-c35f-45f9-938c-2e6cb0790e10.png)
 
-Lastly the third table image shows and demonstrated the dataset in the row and of the table. 
+Lastly the third table image shows and demonstrated the dataset in the row and of the table.
+![image](https://user-images.githubusercontent.com/95897182/158081968-09724108-201a-45e6-9cd3-5b7f732aa90a.png)
 
 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+Summary: 
