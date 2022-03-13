@@ -1,5 +1,7 @@
 # UFOs
+
 Module 11 JavaScript 
+
 Overview of Project:
 The Purpose of this prodject was to dive deep into using Javascript and be able to develop the web skills need to demonstrate to show the data  
 of the UFOs from the sighting in 2010. The Filterable table is used from the website and being able to include different inputs to then filter information that has 
@@ -38,5 +40,8 @@ help build the webpage demonstration.
 
 
 
-Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+Results:
+Dana would be able to walk through this website by being able to understand the images and the datatables that were created by the diffrerent input users. 
+The first table is displayed with A Backround data that is filter for a user to then use as an input display. 
+
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
