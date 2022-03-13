@@ -51,3 +51,9 @@ Lastly the third table image shows and demonstrated the dataset in the row and o
 
 
 Summary: 
+From doing this analyst project the two main drawbacks were first I thought it was difficult to scrape the website and use javascript coding to first gather the information 
+in which I needed to show on my filtertable. Second drawback that I found difficult was creating the tables, and making a visual discription, however I see why it is valuable for the user to have a filtertable because an image can show more than then just a paragraph so I see why it was necessary to take those actions for this analysts. 
+My first recomendation for this development is to make sure you understand the key development points on javascript so you are able to identify what image you want to create. 
+Then my second recomendation would be able to have more text boxs that you could enter in more than city,state, country, Shape exc. I know for this specific project that key 
+information was needed to be inculded but I also recommended  that you could have a wider table to then be able to input more data if needed. 
+
